@@ -1,0 +1,8 @@
+*.vcd
+*.fst
+*.out
+*.exe
+*_sim
+*_compile
+*.vvp
+sim
